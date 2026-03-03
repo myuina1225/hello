@@ -1,1 +1,2 @@
-宮崎がREADME.mdを
+宮崎がREADME.mdを修正したぜ！
+いいえ、yuinaが修正したよ
